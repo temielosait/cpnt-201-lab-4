@@ -94,6 +94,7 @@ Ingredients:
 - Tomato
 - Mayonnaise
 - Cilantro
+- Eggs
 
 Instructions:
 
